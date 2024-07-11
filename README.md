@@ -17,7 +17,7 @@ Online Voting System is a web-based application designed to facilitate electroni
 
     ```bash
         cd C:\\xampp\htdocs\
-        git clone https://github.com/RishikoushikRajana/Online-Voting-System.git
+        git clone https://github.com/Jayachandrapaidi/Online-Voting-System.git
         
     ```
 
